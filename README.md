@@ -10,4 +10,13 @@ Instant Eyedropper is a free color detection tool for webmasters that will ident
 ## Centering a Div
 
 The most prefferable website to know how to center a div in all ways.<br>
-<a href="http://instant-eyedropper.com/download/instant-eyedropper-1.9.3.exe"><Visit</a>
+<a href="https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/">Visit</a>
+
+## Free Vectors and Illustrations
+
+Freepik is a website which enables you to download high quality vectors and illustrations for your websites.
+<br>
+Note- The downloaded files will be in vector format and for you to vbe able to edit those, you'll need Adbobe Illustrator.
+<br>
+<a href="https://www.freepik.com/">Visit Here</a>
+<br>
