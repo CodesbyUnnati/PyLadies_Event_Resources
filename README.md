@@ -1,4 +1,4 @@
-# 📍 PyLadies_Event_Resources
+# 📍 PyLadies_Event_Resources.
 
 Here are all the resources mentioned during the event-
 
